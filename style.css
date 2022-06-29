@@ -283,14 +283,9 @@ button{
 .testimony img{
    background-color: rgb(98, 92, 92);
    width: 40%;
-   
-
 }
 .testimony div{
-    /* width: 30%; */
        padding: 5%;
-
-
 }
 .reviews{
     margin-bottom: 12%
@@ -299,6 +294,17 @@ section{
 display: flex;
 padding: 5%;
 }
+.shop{
+    text-align: center;
+    background-color: aquamarine;
+    width:76%;
+    padding: 5%;
+    margin-left: 5%;
+}
+.ask{
+    color: red;
+}
+
 
 
 

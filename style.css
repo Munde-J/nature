@@ -1,0 +1,309 @@
+body{
+
+    background-color: white;
+    block-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    text-align: center;
+    margin-left: 30%;
+    
+}
+.container-1{
+    border-radius: 40px;
+    background-color: #E9E8E8;
+    width: 85%;
+    margin-left: 7%;
+    height: 500px;
+   
+}
+.navbar ul{
+    list-style: none;
+    display: inline-flex;
+}
+.navbar ul li{
+    width:100px;
+    margin:10px;
+    padding: 2px;
+}
+.home{
+    color: rgb(243, 7, 7);
+}
+.best{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.amaze{
+    font-size: 40px;
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 30%;
+}
+button{
+    width: 12%;
+    height: 42px;
+    margin-left: 10%;
+    margin-top: 2%;
+    border-radius: 30px;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    font-weight:bolder;
+}
+.aloe{
+    margin-left: 58.7%;
+    margin-top: -19.1%;
+    
+}
+.logos{
+    display: flex;
+    margin-left: 20%;
+}
+.logo3{
+    margin-left: 33%;
+    border-radius: 50%;
+    background-color:#F1F5E3;
+    width: 6%;
+}
+.logo2{
+    margin-left: 34%;
+    border-radius: 50%;
+    background-color:#F1F5E3;
+    width: 6%;
+}
+.logo1{
+    margin-left: -16%;
+    border-radius: 50%;
+    background-color:#F1F5E3;
+    width: 6%;
+}
+
+.money{
+    margin-left: 77%;
+    margin-top:-6% ;
+}
+.money h1{
+    font-size: 20px;
+}
+
+.shipping{
+    margin-left: 46%;
+    margin-top: -6%;
+}
+.shipping h1{
+    font-size: 20px;
+}
+.plants{
+    margin-left: 14%;
+    margin-top: -6%;
+}
+.plants h1{
+    font-size: 20px;
+}
+.pots1{
+    display: flex;
+    margin-top: 4%;
+}
+.flo1{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 6%;
+    padding-bottom: 5%;
+}
+    
+.flo1 p{
+    width: 62%;
+    margin-left: 12%;
+}
+.flo1 h1 {
+    font-size: 25px;
+    margin-left: 12%;
+    margin-top: -27%;
+}
+.flo2{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 2%;
+    padding-bottom: 5%;
+
+}
+.flo2 p{
+    width: 62%;
+    margin-left: 12%;
+}
+.flo2 h1 {
+    font-size: 25px;
+    margin-left: 12%;
+    margin-top: -27%;
+}
+.flo3 h1 {
+    font-size: 25px;
+    margin-left: 12%;
+    margin-top: -27%;
+}
+.flo3{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 2%;
+    padding-bottom: 5%;
+}
+.flo3 p{
+    width: 62%;
+    margin-left: 12%;
+}
+.flo3 h1 {
+    font-size: 25px;
+    margin-left: 12%;
+    margin-top: -27%;
+}
+.flo3 h1 {
+    font-size: 25px;
+    margin-left: 12%;
+    margin-top: -27%;
+}
+.caps{
+    color: red;
+}
+.pla{
+    text-align: center;
+}
+.plant{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -33%;
+}
+.box1{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;
+   
+}
+.plant1{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -33%;
+}
+.box2{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;
+   
+}
+.plant2{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -33%;
+}
+.box3{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;   
+}
+.plant3{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -33%;
+}
+.box4{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;   
+}
+.variety div{
+    margin-left: 5%;
+}
+
+.variety{
+    display: flex;
+    padding: 0 7% 0 0;
+}
+.flowering{
+    display: flex;
+    padding: 0 0% 0 0;
+    padding-left: 6%;
+}
+.flowers1 img{ 
+    background-color: #E9E8E8;
+    border-radius: 10px;
+    height: 230px;
+}
+.flowers2 img{
+    background-color: #E9E8E8;
+    border-radius: 10px;
+    height: 230px;
+}
+.flowers3 img{
+    background-color: #E9E8E8;
+    border-radius: 10px;
+    height: 230px;
+}
+.flowers4 img{
+    background-color: #E9E8E8;
+    border-radius: 10px;
+    height: 230px;
+}
+.flowers1{
+    width: 150%;
+}
+.flowers2{
+    width: 150%;
+}
+.flowers3{
+    width: 150%;
+}
+.flowers4{
+    width: 150%;
+}
+.need{
+    display: flex;
+    margin-left: 6%;
+}
+.lookfor{
+    width: 50%;
+    margin-left: 15%;
+}
+.testimony{
+   display: flex; 
+   background-color: rgb(171, 160, 160);
+    width: 90%;
+    margin-bottom: 3%;
+
+
+}
+.testimony img{
+   background-color: rgb(98, 92, 92);
+   width: 40%;
+   
+
+}
+.testimony div{
+    /* width: 30%; */
+       padding: 5%;
+
+
+}
+.reviews{
+    margin-bottom: 12%
+}
+section{
+display: flex;
+padding: 5%;
+}
+
+
+
+
+
+
+
+

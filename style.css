@@ -9,6 +9,14 @@ body{
     margin-left: 30%;
     
 }
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+}
+.navbar ul li a:hover{
+    color: red;
+}
 .container-1{
     border-radius: 40px;
     background-color: #E9E8E8;
@@ -49,6 +57,10 @@ button{
     color: rgb(255, 255, 255);
     background-color: rgb(255, 0, 0);
     font-weight:bolder;
+}
+button:hover{
+    color: white;
+
 }
 .aloe{
     margin-left: 58.7%;
@@ -111,6 +123,8 @@ button{
     height: 400px;
     margin-left: 6%;
     padding-bottom: 5%;
+    transition: 10s;
+    transform: scale(0.3s);
 }
     
 .flo1 p{
@@ -188,7 +202,7 @@ button{
 .plant1{
     width: 150%;
     margin-left: -28%; 
-    margin-top: -33%;
+    margin-top: -28%;
 }
 .box2{
     border-radius: 10px;
@@ -200,7 +214,7 @@ button{
 .plant2{
     width: 150%;
     margin-left: -28%; 
-    margin-top: -33%;
+    margin-top: -26%;
 }
 .box3{
     border-radius: 10px;
@@ -211,7 +225,7 @@ button{
 .plant3{
     width: 150%;
     margin-left: -28%; 
-    margin-top: -33%;
+    margin-top: -26%;
 }
 .box4{
     border-radius: 10px;
@@ -222,7 +236,6 @@ button{
 .variety div{
     margin-left: 5%;
 }
-
 .variety{
     display: flex;
     padding: 0 7% 0 0;
@@ -274,14 +287,15 @@ button{
 }
 .testimony{
    display: flex; 
-   background-color: rgb(171, 160, 160);
-    width: 90%;
-    margin-bottom: 3%;
+   background-color: #E9E8E8;
+   width: 92%;
+   margin-bottom: 3%;
+   border-radius: 10px;
+
 
 
 }
 .testimony img{
-   background-color: rgb(98, 92, 92);
    width: 40%;
 }
 .testimony div{
@@ -296,10 +310,11 @@ padding: 5%;
 }
 .shop{
     text-align: center;
-    background-color: aquamarine;
+    background-color: #E9E8E8;
     width:76%;
     padding: 5%;
     margin-left: 5%;
+    border-radius: 20px;
 }
 .ask{
     color: red;

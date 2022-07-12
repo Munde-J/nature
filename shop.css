@@ -1,0 +1,110 @@
+.navbar{
+    text-align: center;
+    margin-left: 30%;
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+}
+.navbar ul{
+    list-style: none;
+    display: inline-flex;
+}
+.navbar ul li{
+    width:100px;
+    margin:10px;
+    padding: 2px;
+}
+.navbar ul li a:hover{
+    color: red;
+}
+.variety{
+    display: flex;
+    padding: 0 7% 0 0;
+}
+
+.container1 h1{
+    margin-left: 6%;
+}
+.flo1{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 6%;
+    padding-bottom: 5%;
+    transition: 10s;
+    transform: scale(0.3s);
+}
+.flo2{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 2%;
+    padding-bottom: 5%;
+}
+.flo3{
+    border-radius: 20px;
+    background-color: #E9E8E8;
+    width: 28%; 
+    height: 400px;
+    margin-left: 2%;
+    padding-bottom: 5%;
+}
+
+.plant{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -33%;
+}
+.box1{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;
+   
+}
+.plant1{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -28%;
+}
+.box2{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;
+   
+}
+.plant2{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -26%;
+}
+.box3{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;   
+}
+.plant3{
+    width: 150%;
+    margin-left: -28%; 
+    margin-top: -26%;
+}
+.box4{
+    border-radius: 10px;
+    background-color: #E9E8E8;
+    width: 100%; 
+    height: 230px;   
+}
+.variety div{
+    margin-left: 6%;
+}
+.variety{
+    margin-top: 10%;
+}
+
